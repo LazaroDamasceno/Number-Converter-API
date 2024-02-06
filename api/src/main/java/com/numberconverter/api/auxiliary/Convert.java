@@ -1,4 +1,4 @@
-package com.numberconverter.api;
+package com.numberconverter.api.auxiliary;
 
 public interface Convert<T, U> {
 

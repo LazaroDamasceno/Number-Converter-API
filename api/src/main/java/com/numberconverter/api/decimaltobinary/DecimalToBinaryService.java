@@ -1,5 +1,7 @@
-package com.numberconverter.api;
+package com.numberconverter.api.decimaltobinary;
 
+import com.numberconverter.api.auxiliary.Convert;
+import com.numberconverter.api.auxiliary.GetStringFrom;
 import org.springframework.stereotype.Service;
 
 import java.math.BigInteger;

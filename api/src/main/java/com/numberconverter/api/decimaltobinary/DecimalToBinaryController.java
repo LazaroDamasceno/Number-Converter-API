@@ -1,5 +1,6 @@
-package com.numberconverter.api;
+package com.numberconverter.api.decimaltobinary;
 
+import com.numberconverter.api.auxiliary.Convert;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
